@@ -3,9 +3,7 @@
 <!--
 **MohammadAz772/MohammadAz772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-# 👋 Hi, I'm Mohammad Az
+# 👋 Hi, I'm Muhammad Az
 🚀 AI | NLP | AR/VR for Education | Deep Learning Enthusiast  
 
 I’m passionate about building **AI-powered educational platforms** for kids, combining  
@@ -22,7 +20,7 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 ---
 
 ## 🌟 Featured Projects
-- [KinderConnect-Bot](https://github.com/MohammadAz772/KinderConnect-Bot) – Context-aware chatbot for kindergarten education 🎓  
+- [KinderConnect-Bot](https://github.com/MohammadAz772/KinderConnect-Bot) – Telegram bot for kindergarten education 🎓  
 - [Kinder Platform](https://github.com/MohammadAz772/kinder) – 3D immersive educational platform with AR/VR  
 
 ---
@@ -35,17 +33,17 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/your-link) | [Portfolio Website](https://your-website.com) | [Email](mailto:yourmail@gmail.com)
+[LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772) | [Portfolio Website](www.behance.net/Muhammad-Abi-Alzabib) | [Email](mailto:mhdzabib2002@gmail.com)
 
 
 
 
-- 🔭 I’m currently working on ...
+*/- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .../*
 -->

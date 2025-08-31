@@ -22,21 +22,27 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAz772&show_icons=true&theme=radical)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAz772&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAz772&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAz772&layout=compact&theme=radical)
+ 
 ---
 
-## 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772) | [Portfolio Website](www.behance.net/Muhammad-Abi-Alzabib) | [Email](mailto:mhdzabib2002@gmail.com)
+## 🔗 My Websites, Blogs & Links of Note  
+
+| 🌍 Links | 📌 Details |
+|----------|------------|
+| [Portfolio](www.behance.net/Muhammad-Abi-Alzabib) | 📬 Reach me: mhdzabib2002@gmail.com |
+| [Blog](https://your-blog-link.com) | 🌍 Based in: Damascus , Syria |
+| [LinkedIn]([(https://linkedin.com/in/muhammed-abi-alzabib772)]) | ⚡ Interests: AI, Aviation Tech, Problem Solving |
+| [Dev.to](https://dev.to/phoenix_772b) | 😃 Known for: Collaboration & Quick Learning |
 
 ---
 
 ## 🌍 About Me  
 
-💻 AI & Software Development Enthusiast  
-✈️ Experienced in high-responsibility airport operations  
+💻✨ AI & Software Development Enthusiast  
+🚀 Experienced in high-responsibility operations  
 🤝 Skilled in teamwork, communication & adaptability  
 ⚡ Passionate about building real-world AI solutions 
 

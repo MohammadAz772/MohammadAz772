@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-# 👋 Hi, I'm Muhammad Az
+##  👋 Hi, I'm Muhammad Az
 🚀 AI | NLP | AR/VR for Education | Deep Learning Enthusiast  
 
 I’m passionate about building **AI-powered educational platforms** for kids, combining  
@@ -36,6 +34,4 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 
 
 
-
-- ⚡ Fun fact: .../*
--->
+- ⚡ Fun fact: .../

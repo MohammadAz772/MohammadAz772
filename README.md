@@ -39,6 +39,27 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 
 ---
 
+---
+
+## ✍️ Recent Blog Posts  
+<!-- Replace with dynamic blog fetcher later if you blog on Medium/Dev.to -->
+- [A Developer’s Roadmap to Getting Started with AI in 2025](#)  
+- [Top AI Dev Tools for 2025 (Bits and Pieces publication)](#)
+- [Top 11 Publications on Medium for Data Science, Machine Learning, and AI](#)
+- [Top 5 Tools I Use for Productivity](#)
+
+
+---
+
+## 📚 Books I’ve Been Reading  
+- "Artificial Intelligence: A Guide for Thinking Humans – Melanie Mitchell (2019)"
+- "Artificial Intelligence: A Modern Approach – Stuart J. Russell & Peter Norvig (4th Ed., 2020)"  
+- "Hello World: How to Be Human in the Age of the Machine – Hannah Fry (2018)"  
+- "Artificial Unintelligence: How Computers Misunderstand the World – Meredith Broussard (2018)"  
+- "Superintelligence: Paths, Dangers, Strategies – Nick Bostrom (2014)"  
+
+---
+
 ## 🌍 About Me  
 
 💻✨ AI & Software Development Enthusiast  
@@ -46,4 +67,12 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 🤝 Skilled in teamwork, communication & adaptability  
 ⚡ Passionate about building real-world AI solutions 
 
+---
 
+## 🤝 Let’s Connect  
+- 💼 [LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 📬 Email: mhdzabib2002@gmail.com  
+
+---
+⭐️ From [MohammadAz772](https://github.com/MohammadAz772)

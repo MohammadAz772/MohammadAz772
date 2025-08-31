@@ -31,4 +31,13 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 ## 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772) | [Portfolio Website](www.behance.net/Muhammad-Abi-Alzabib) | [Email](mailto:mhdzabib2002@gmail.com)
 
+---
+
+## 🌍 About Me  
+
+💻 AI & Software Development Enthusiast  
+✈️ Experienced in high-responsibility airport operations  
+🤝 Skilled in teamwork, communication & adaptability  
+⚡ Passionate about building real-world AI solutions 
+
 

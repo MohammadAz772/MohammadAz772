@@ -32,6 +32,3 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 [LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772) | [Portfolio Website](www.behance.net/Muhammad-Abi-Alzabib) | [Email](mailto:mhdzabib2002@gmail.com)
 
 
-
-
-- ⚡ Fun fact: .../

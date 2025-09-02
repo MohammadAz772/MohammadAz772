@@ -1,13 +1,18 @@
 
-##  👋 Hi, I'm Muhammad Az 🤖
+##  👋 Hi, I'm Muhammad Az 🧠🤖
 ## SoftWare Engineer | Flutter Dev 
 🚀 AI | NLP | AR/VR | Deep Learning  
 
-I’m passionate about building **AI-powered educational platforms** for kids, combining  
-🤖 AI + 🎨 AR/VR + 📚 Gamification to create futuristic learning experiences.  
-
+💡I’m Passionate about building Artificial Intelligence, Software Development, and Smart Solutions
+⚡ Always learning, innovating, and creating intelligent solutions for real-world problems.
+  
 ---
 
+
+## 🌍 Vision 
+To innovate and engineer intelligent systems and cutting-edge solutions that seamlessly blend software, data, and AI—driving efficiency, empowering decision-making, and creating meaningful impact in everyday life. I strive to bridge technology and creativity by building scalable, human-centered applications that transform complex challenges into simple, smart, and sustainable solutions.
+
+---
 ##  💻🔧 Tech Stack
 
 <p align="center">
@@ -46,19 +51,49 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 </p>
 
 ---
+
+## 🛠️ Languages and Tools  
+
+### 👨‍💻 Programming & Markup  
+<p align="left">  
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,php,ruby,go,swift,kotlin,rust,scala,perl,lua&perline=8" /></a>  
+</p>  
+
+### ⚙️ Frameworks & Libraries  
+<p align="left">  
+<a href="#"><img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,express,nextjs,nestjs,django,flask,fastapi,spring,tensorflow,pytorch,sklearn,keras,bootstrap,tailwind&perline=8" /></a>  
+</p>  
+
+### 🗄️ Databases  
+<p align="left">  
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,oracle&perline=8" /></a>  
+</p>  
+
+### ☁️ Cloud & DevOps  
+<p align="left">  
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,linux,bash,powershell&perline=8" /></a>  
+</p>  
+
+### 🎨 Design & Tools  
+<p align="left">  
+<a href="#"><img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,unity,unreal,vscode,idea,androidstudio,visualstudio&perline=8" /></a>  
+</p>  
+
+---
 ---
 
-## 🌟 Featured Projects
-- [KinderConnect-Bot](https://github.com/MohammadAz772/KinderConnect-Bot) – Telegram bot for kindergarten education 🎓  
-- [Kinder Platform](https://github.com/MohammadAz772/kinder) – 3D immersive educational platform with AR/VR  
-
----
 
 ## 📊 GitHub Stats
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAz772&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAz772&layout=compact&theme=radical)
  
+---
+
+## 🌟 Featured Projects
+- [KinderConnect-Bot](https://github.com/MohammadAz772/KinderConnect-Bot) – Telegram bot for kindergarten education 🎓  
+- [Kinder Platform](https://github.com/MohammadAz772/kinder) – 3D immersive educational platform with AR/VR  
+
 ---
 
 ## 🔗 My Websites, Blogs & Links of Note  
@@ -96,13 +131,23 @@ I’m passionate about building **AI-powered educational platforms** for kids, c
 ## 🌍 About Me  
 
 💻✨ AI & Software Development Enthusiast  
-🚀 Experienced in high-responsibility operations  
+🤖 Exploring **Natural Language Processing, Deep Learning  
 🤝 Skilled in teamwork, communication & adaptability  
 ⚡ Passionate about building real-world AI solutions 
 
 ---
 
-## 🤝 Let’s Connect  
+## 🌍🤝 Let’s Connect  
+---
+
+## 🤝 Connect with Me  
+<p align="left">  
+<a href="https://www.linkedin.com/in/muhammed-abi-alzabib772"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+<a href="https://medium.com/@YOUR_PROFILE"><img src="https://skillicons.dev/icons?i=medium" /></a>  
+<a href="mailto:mhdzabib2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+</p>  
+
+---
 - 💼 [LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772)  
 - 🐦 [Twitter](https://twitter.com/yourhandle)  
 - 📬 Email: mhdzabib2002@gmail.com  

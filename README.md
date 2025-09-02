@@ -8,11 +8,19 @@
   
 ---
 
-
 ## 🌍 Vision 
 To innovate and engineer intelligent systems and cutting-edge solutions that seamlessly blend software, data, and AI—driving efficiency, empowering decision-making, and creating meaningful impact in everyday life. I strive to bridge technology and creativity by building scalable, human-centered applications that transform complex challenges into simple, smart, and sustainable solutions.
 
 ---
+---
+
+## 🌐 Portfolio & CV  
+- [🌍 My Portfolio Website](www.behance.net/Muhammad-Abi-Alzabib)  
+- [📄 Download My CV](https://drive.google.com/file/d/1ZIt2De5TPBncAS6Xh635H3dBpAsM5dXc/view?usp=drive_link))  
+
+---
+---
+
 ##  💻🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Markup  

@@ -1,6 +1,6 @@
 
 ##  👋 Hi, I'm Muhammad Az 🧠🤖
-## SoftWare Engineer | Flutter Dev 
+## Software Engineer | Flutter Dev 
 🚀 AI | NLP | AR/VR | Deep Learning  
 
 💡I’m Passionate about building Artificial Intelligence, Software Development, and Smart Solutions
@@ -13,46 +13,7 @@
 To innovate and engineer intelligent systems and cutting-edge solutions that seamlessly blend software, data, and AI—driving efficiency, empowering decision-making, and creating meaningful impact in everyday life. I strive to bridge technology and creativity by building scalable, human-centered applications that transform complex challenges into simple, smart, and sustainable solutions.
 
 ---
-##  💻🔧 Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50px" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50px" alt="Go"/>
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" alt="Vue"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px" alt="PyTorch"/>
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" alt="SQLite"/>
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>
-</p>
-
----
-
-## 🛠️ Languages and Tools  
+##  💻🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Markup  
 <p align="left">  
@@ -80,6 +41,7 @@ To innovate and engineer intelligent systems and cutting-edge solutions that sea
 </p>  
 
 ---
+
 ---
 
 
@@ -137,20 +99,16 @@ To innovate and engineer intelligent systems and cutting-edge solutions that sea
 
 ---
 
-## 🌍🤝 Let’s Connect  
----
 
-## 🤝 Connect with Me  
+---
+## 🌍🤝 Let’s Connect   
 <p align="left">  
 <a href="https://www.linkedin.com/in/muhammed-abi-alzabib772"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
-<a href="https://medium.com/@YOUR_PROFILE"><img src="https://skillicons.dev/icons?i=medium" /></a>  
+<a href="https://medium.com/@mhdzabib2002"><img src="https://skillicons.dev/icons?i=medium" /></a>  
+<a href="https://github.com/MohammadAz772"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="mailto:mhdzabib2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
 </p>  
 
 ---
-- 💼 [LinkedIn](https://linkedin.com/in/muhammed-abi-alzabib772)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 📬 Email: mhdzabib2002@gmail.com  
-
 ---
 ⭐️ From [MohammadAz772](https://github.com/MohammadAz772)
